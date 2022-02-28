@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for calling out heretors &amp;c. for His Majesties service</title>
+            <title>Proclamations. 1688-10-03</title>
+            <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92689</idno>
+            <idno type="STC">Wing S1849</idno>
+            <idno type="STC">ESTC R230245</idno>
+            <idno type="EEBO-CITATION">99899467</idno>
+            <idno type="PROQUEST">99899467</idno>
+            <idno type="VID">153572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2370:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for calling out heretors &amp;c. for His Majesties service</title>
+                  <title>Proclamations. 1688-10-03</title>
+                  <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to His most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given under our signet, at Edinburgh, the third day of October, 1688. And of our reign the fourth year.</note>
+                  <note>Steele notation: Arms 235; King Command will.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:153572:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION, <hi>For Calling out Heretors</hi> &amp;c. <hi>for His</hi> Majeſties <hi>Service.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">J</seg>AMES</hi> by the Grace of GOD, King of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith, To Our Lyon, King at Arms, and his Brethren Heraulds, Macers of Our Privy Council, Purſevants, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting: Foraſmuch, As We being obliged by the vaſt Preparations of the States of <hi>Holland,</hi> to put this Our Antient Kingdom in a condition of Defence, as well for the Securing of Our Own Honour, as the Protecting the Lives and Eſtates of all Our Leidge People; Therefore, We with Advice of Our Privy Council, Do hereby peremptorly Require and Command, the whole Heretors, Liferenters, and Wodſetters, and the Factors and Chamberlains of ſuch as are Minors, out of the Kingdom, or otherwiſe neceſſarily abſent, To Conveen with their beſt Horſes and Arms, and to be Rendezvouzed, under the Command, and at the reſpective Places and Diets after<g ref="char:EOLhyphen"/>mentioned, <hi>viz.</hi> The Shire of <hi>Nithiſdale</hi> and Stewartry of <hi>Annandale,</hi> at the Town of <hi>Dumfreis,</hi> the fifteenth of <hi>October</hi> inſtant, under the Command of the Duke of <hi>Queensberry;</hi> The Shire of <hi>Wigtoun,</hi> the ſaid Day at <hi>Dumfreis,</hi> under the Command of the Earl of <hi>Galloway,</hi> and in his abſence the Laird of <hi>Logan;</hi> the Stewartry of <hi>Kirkcudbright,</hi> the ſaid Day and Place, under the Command of the Viſcount of <hi>Kenmure,</hi> or the Laird of <hi>Lagg;</hi> The Bailliary of <hi>Cunninghame,</hi> the ſaid Day at <hi>Glaſgow,</hi> under the Command of the Lord <hi>Montgomery;</hi> The Bailliaries of <hi>Kile</hi> and <hi>Carrict,</hi> the ſaid Day and Place, under the Command of the Earl of <hi>Caſſils;</hi> The Shire of <hi>Renfrew,</hi> at the ſaid Town, the twelfth day of <hi>October</hi> inſtant, under the Command of the Earl of <hi>Dundonald;</hi> The Shire of <hi>Lanerk,</hi> the ſaid Day and Place, under the Command of the Duke of <hi>Hamilton,</hi> and in his abſence, Lord <hi>John Hamilton</hi> his Son; The Shire of <hi>Dumbar<g ref="char:EOLhyphen"/>toun,</hi> the ſaid Day and Place, under the Command of the Earl of <hi>Glencairn;</hi> The Shire of <hi>Tiviotdale,</hi> at <hi>Edinburgh,</hi> the tenth Day of <hi>October</hi> inſtant, under the Command of the Earl of <hi>Lothian</hi> and the Lord <hi>Newbottle;</hi> The Shire of <hi>Berwick,</hi> the ſaid Day and Place, under the Command of Sir <hi>Archi<g ref="char:EOLhyphen"/>bald Cockburn</hi> of <hi>Lantoun</hi> Barronet; The Shires of <hi>Forrest</hi> and <hi>Peebles,</hi> the ſaid Day and Place, under the Command of the Laird of <hi>Drumelzier;</hi> The Shire of Eaſt<hi>-Lothian,</hi> the ſaid Day and Place, under the Command of the Lord <hi>Yeſter;</hi> The Shire of Mid<hi>-Lothian,</hi> the ſaid Day and Place, under the Command of the Earl of <hi>Lauderdale;</hi> The Shires of Weſt<hi>-Lothian, Stirling</hi> and <hi>Clackmannan,</hi> at <hi>Stirling,</hi> the ſaid tenth day inſtant, under the Command of the Earl of <hi>Mar;</hi> The Shires of <hi>Fife</hi> and <hi>Kinroſs,</hi> the ſaid Day, at the Town of <hi>Burnt-Iſland,</hi> under the Command of the Earl of <hi>Belcarras;</hi> The Weſtern Diviſion of <hi>Perth-</hi>ſhire, at <hi>Stirling,</hi> the foreſaid tenth inſtant, under the Command of <hi>David</hi> Viſcount of <hi>Stormonth;</hi> The Eaſtern diviſion of that Shire, the foreſaid day and place, under the Command of the Lord <hi>Murray:</hi> The Shire of <hi>Forfar,</hi> at the Burgh of <hi>Striv<g ref="char:EOLhyphen"/>ling,</hi> the twelfth inſtant, under the Command of the Earl of <hi>Southesk:</hi> The Shire of <hi>Merns,</hi> at the Burgh of <hi>Perth,</hi> the fifteenth inſtant, under the Command of the Lord <hi>Keith: Mariſhals</hi> part of <hi>Aberdene,</hi> at <hi>Brichen</hi> or <hi>Forfar,</hi> the fifteenth inſtant, under the Command of the Earl of <hi>Kintore:</hi> The reſt of the Shire of <hi>Aberdene,</hi> with the Shire of <hi>Bamff,</hi> the ſaid day and place, under the Command of the Duke of <hi>Gordon:</hi> All betwixt <hi>Spey</hi> and <hi>Neſs,</hi> at the Burgh of <hi>Brichen,</hi> the twentieth ſecond inſtant under the Command of the Lord <hi>Duffus:</hi> The Shires of <hi>Roſs</hi> and <hi>Caithneſs,</hi> at the Burgh of <hi>Elgin,</hi> the twenty fourth inſtant, under the Command of the Maſter of <hi>Tarbat:</hi> And hereby Requires and Commands the Earl of <hi>Caithneſs</hi> to Levy two hundreth Foot, out of the Shire of <hi>Caithneſs,</hi> in place of the Militia of the ſaid Shire, ſufficiently Armed and provided with fourteen days Loan, which is to be proportionably laid on by the Commiſſioners of Supply of the ſaid Shire, upon all perſons lyable in Outreik of the Militia, and with theſe to march to the head of <hi>Lochneſs,</hi> betwixt and the twenty ninth inſtant: As likewiſe, Requires and Commands the Lord <hi>Doun,</hi> forthwith to Rendez<g ref="char:EOLhyphen"/>vous the Foot-Militia, betwixt <hi>Spey</hi> and <hi>Neſs,</hi> and to make a Detatchment of the third part thereof, provided with fourteen days Loan, which is to be impoſed and proportioned upon theſe lyable in manner above-expreſt, and with theſe to march to <hi>Lochneſs,</hi> betwixt and the twenty ninth inſtant. As likewiſe, Requires the Lord <hi>Strathnaver</hi> to Levy two hundreth men in place of the Militia of <hi>Sutherland,</hi> and to March forthwith to the head of <hi>Loch<g ref="char:EOLhyphen"/>neſs,</hi> with fourteen days Loan, which is to be laid on and proportioned on the ſaid Shire, in manner above-mentioned; And this beſides and without pre<g ref="char:EOLhyphen"/>judice to the proportions of Men, formerly Ordered by Our Council, to be Rendezvouzed, and Levied by thoſe of Our Nobility and Gentry, having intereſt in Our Highlands; with Certification to ſuch as ſhall fail herein, they ſhall be puniſhed as abſents from Our Hoſt, conform to Our Laws and Acts of Parliament. And Ordains all the ſaids Commanders, and all under their reſpective Commands, to remain at the reſpective above-mentioned places, till further Order from Our Council. And for the ſecurity of all perſons concerned in this Our Service, We Do hereby by vertue of Our Roy<g ref="char:EOLhyphen"/>al Prerogative, Diſcharge all perſonal Execution for any civil Cauſe or Debt, againſt any perſon, who comes out to Our Hoſt, in obedience to this Our Royal Command, and that during their attending the ſame: And to the end Our Pleaſure in the Premiſſes may be made publick and known, Our Will is, and We Charge you ſtrictly and Command, that incontinent, theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and whole remnant Mercat-Croſſes of the Head-Burghs of the Shires of this Kingdom, and other places needful, and there, in Our Royal Name and Authority, make open Proclamation of the Premiſſes, that all perſons concerned may have notice thereof, and give punctual and exact obedience thereto, as they will be anſwerable at their higheſt peril.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet, at</hi> Edinburgh, <date>
+                     <hi>the third day of</hi> October, 1688. <hi>And of Our Reign the fourth year.</hi>
+                  </date>
+               </dateline>
+Per Actum Dominorum Secreti Concilii.
+<signed>WILL. PATERSON, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majesty,</hi> Anno <hi>Dom.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
